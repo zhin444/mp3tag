@@ -7,6 +7,6 @@
 
 **Run using musicbrainz API**
 
-    python track_info.py "ARTIST NAME" "ALBUM NAME"
+    python track_info_api.py "ARTIST NAME" "ALBUM NAME"
   
 
